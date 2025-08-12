@@ -18,6 +18,7 @@ Deep_learning_assignment_2.pdf  # Background and assignment description
 
 ## Dependencies
 
+
 - Python 3.10+
 - PyTorch
 - torch-geometric
